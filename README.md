@@ -9,4 +9,3 @@ Trivia Database is a React-based quiz application that allows users to test thei
 - **Real-Time Feedback**: Displays whether the user's answer is correct or incorrect, along with the correct answer.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
-## Project Structure
